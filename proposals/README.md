@@ -69,3 +69,8 @@ Say we want to create a new feature request. Here's the flow, assuming we have f
     - The review highlights that some additional adjustments are required. We patch those up and the PR is approved. Awesome!
 
 Because this is in the internal repo, one of the maintainers migrates our Issue to the public repo along with a formatted patch PR. The public loves our proposal, or at least doesn't complain, and the maintainers approve and merge it into the release-candidate. The proposal is complete and the feature is slated for the next spec release! High-five!
+
+**Proposal Submission to Review Committee**
+L0 Committee Meeting Cadence and Review Process Overview is on the below wiki link:
+
+https://github.com/intel-innersource/libraries.compute.oneapi.level-zero.spec/wiki/Level-Zero-Forum-Meeting-Cadence-and-Review-Process
